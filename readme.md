@@ -1,0 +1,1 @@
+This is an automation project which add moderators in contest of hackerrank by itself. We need to click 300 to 400 times for the same task if we going to do it manually. We are just automating our task.
